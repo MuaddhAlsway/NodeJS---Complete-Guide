@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../../assets/tech-stack.svg" alt="Node.js Complete Guide technology stack" width="100%" />
+<img src="../assets/tech-stack.svg" alt="Node.js Complete Guide technology stack" width="100%" />
 
 # Chapter 01 — Introduction to Node.js
 
